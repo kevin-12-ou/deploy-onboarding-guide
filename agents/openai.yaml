@@ -1,0 +1,6 @@
+interface:
+  display_name: "安装评估与新手上手"
+  short_description: "下载或部署开源项目及技能前评估风险，完成后自动解释用途、条件与使用方法"
+  default_prompt: "使用 $deploy-onboarding-guide 评估这个链接并按已授权的范围安装，最后给我中文上手说明。"
+policy:
+  allow_implicit_invocation: true

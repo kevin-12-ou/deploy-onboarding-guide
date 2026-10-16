@@ -1,0 +1,18 @@
+# Deploy Onboarding Guide
+
+> A Chinese-first AI agent skill for assessing open-source software before installation and explaining setup, permissions, costs, and first use.
+
+Maintainer: kevin-12-ou
+Repository: https://github.com/kevin-12-ou/deploy-onboarding-guide
+License: MIT
+Skill name: deploy-onboarding-guide
+Version: 1.0.0
+Install: npx skills add kevin-12-ou/deploy-onboarding-guide --skill deploy-onboarding-guide
+
+## Documentation
+
+- [Agent instructions](https://raw.githubusercontent.com/kevin-12-ou/deploy-onboarding-guide/main/SKILL.md): capability and invocation scope.
+- [English README](https://raw.githubusercontent.com/kevin-12-ou/deploy-onboarding-guide/main/README.md): examples, installation, and limitations.
+- [中文说明](https://raw.githubusercontent.com/kevin-12-ou/deploy-onboarding-guide/main/README.zh-CN.md): 用途、安装、示例和边界。
+
+This is a concise documentation index, not a guarantee that a search engine or AI service will ingest or recommend this repository.
